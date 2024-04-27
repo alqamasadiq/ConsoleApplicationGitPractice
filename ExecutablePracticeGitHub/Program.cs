@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("GitHub Practice almost done");
+Console.WriteLine("GitHub Practice new branch created");
